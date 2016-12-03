@@ -1,15 +1,15 @@
 .background {
-  background: center no-repeat url(https://raw.githubusercontent.com/StoyanD/smrSyle/master/background.png);
+  background: center no-repeat url("https://raw.githubusercontent.com/StoyanD/smrSyle/master/background.png");
 }
 
 .logo {
-  background-image: url(https://raw.githubusercontent.com/StoyanD/smrSyle/master/background.png);
+  background-image: url("https://raw.githubusercontent.com/StoyanD/smrSyle/master/background.png");
 }
 
 .progressBar {
-  background-color: rgb(238, 255, 65);
+  background-color: #FF9933;
 }
 
 .splash {
-  background-image: url(https://raw.githubusercontent.com/StoyanD/smrSyle/master/background.png);
+  background-image: url("https://raw.githubusercontent.com/StoyanD/smrSyle/master/background.png");
 }
